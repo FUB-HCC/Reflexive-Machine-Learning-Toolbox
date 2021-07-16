@@ -20,12 +20,12 @@ Sonja has basic knowledge of programming languages for data science (R, Python) 
 
 
 # Main contributors
-The reflexive ML toolbox is the outcome of an interdisciplinary collaboration at the [Human-Centered Computing](https://www.mi.fu-berlin.de/en/inf/groups/hcc/index.html) research group of Freie Universität Berlin. <br>
+The reflexive ML toolbox is the outcome of an interdisciplinary collaboration at the [Human-Centered Computing](https://www.mi.fu-berlin.de/en/inf/groups/hcc/index.html) research group of Freie Universität Berlin.
 Main contributors are [Michael Tebbe](https://www.mi.fu-berlin.de/en/inf/groups/hcc/members/researchers/tebbe.html), [Simon David Hirsbrunner](https://www.mi.fu-berlin.de/en/inf/groups/hcc/members/researchers/hirsbrunner.html) and [Claudia Müller-Birn](https://www.mi.fu-berlin.de/en/inf/groups/hcc/members/professor/mueller-birn.html).
 
 # Re-use
 We strongly support and encourage the re-use and further development of our software!<br>
-The toolbox is licensed with [AGPL-3.0](https://github.com/FUB-HCC/Reflexive-Machine-Learning-Toolbox/blob/main/LICENSE)
+The toolbox is licensed with [AGPL-3.0](https://github.com/FUB-HCC/Reflexive-Machine-Learning-Toolbox/blob/main/LICENSE).
 
 # Cite
 If the toolbox was used in your own research projects, please use the following citation in your publications:<br>
