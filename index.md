@@ -6,7 +6,7 @@ The tools are taylored to use cases in interpretivist social research and the hu
 The code of the toolbox will be published here: https://github.com/FUB-HCC/Reflexive-Machine-Learning-Toolbox <br>
 (following soon - please bear with us!)
 
-# Scenarios of use
+# For whom
 
 We are working with a variety of people to make the toolbox valuable for research scenarios. So far, these scenarios include
 
@@ -20,7 +20,7 @@ Sonja has basic knowledge of programming languages for data science (R, Python) 
 More scenarios to come...
 
 
-# Main contributors
+# By whom
 The reflexive ML toolbox is the outcome of an interdisciplinary collaboration at the [Human-Centered Computing](https://www.mi.fu-berlin.de/en/inf/groups/hcc/index.html) research group of Freie Universität Berlin.
 Main contributors are [Michael Tebbe](https://www.mi.fu-berlin.de/en/inf/groups/hcc/members/researchers/tebbe.html), [Simon David Hirsbrunner](https://www.mi.fu-berlin.de/en/inf/groups/hcc/members/researchers/hirsbrunner.html) and [Claudia Müller-Birn](https://www.mi.fu-berlin.de/en/inf/groups/hcc/members/professor/mueller-birn.html).
 
