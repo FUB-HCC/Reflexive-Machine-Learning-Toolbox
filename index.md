@@ -17,6 +17,7 @@ The main challenge for Sonja is to become familiar with relatively large dataset
 
 Sonja has basic knowledge of programming languages for data science (R, Python) and is familiar with data analysis software used in social media analysis (e.g. network analysis). She is open and ready to set up his own programming environment (e.g. a Jupyter Notebook) and is interested to incorporate and experiment with state-of-the-art technologies (e.g. machine learning).
 
+More scenarios to come...
 
 
 # Main contributors
